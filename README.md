@@ -148,6 +148,10 @@ Para instalar y ejecutar esta aplicación, sigue los siguientes pasos:
 
 Para ejecutar las pruebas, ejecute el siguiente comando:
 
+## Video de prueba de la aplicación subida en AWS en una instancia EC2
+
+[![VIDEO](https://youtu.be/5C0smXHaQE8)](https://youtu.be/5C0smXHaQE8)
+
 ```bash
 mvn test
 ```
