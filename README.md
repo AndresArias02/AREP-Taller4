@@ -135,8 +135,8 @@ Para instalar y ejecutar esta aplicación, sigue los siguientes pasos:
 2. **Compilar y ejecutar:**
 
     ```bash
-   mvn clean compile
-   docker-compose up --build
+   mvn clean install
+   docker-compose up -d
    Esperar 5 minutos antes de probar la aplicación
    ```
 
