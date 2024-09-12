@@ -144,13 +144,13 @@ Para instalar y ejecutar esta aplicación, sigue los siguientes pasos:
 
    Navega a http://localhost:8080/index.html para interactuar con la aplicación.
 
-## Ejecutando las pruebas
-
-Para ejecutar las pruebas, ejecute el siguiente comando:
-
 ## Video de prueba de la aplicación subida en AWS en una instancia EC2
 
 [VIDEO AWS EC2](https://youtu.be/5C0smXHaQE8)
+
+## Ejecutando las pruebas
+
+Para ejecutar las pruebas, ejecute el siguiente comando:
 
 ```bash
 mvn test
